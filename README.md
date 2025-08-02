@@ -51,5 +51,7 @@ To create the front-end interface of an e-learning platform that:
 
   -JavaScript (optional for dynamic elements like progress tracking)
 
+#OUTPUT
 
+<img width="1290" height="657" alt="Image" src="https://github.com/user-attachments/assets/66b8ba83-7dea-4c36-b1c7-bd84b09da35e" />
     
