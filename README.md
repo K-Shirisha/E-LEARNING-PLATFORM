@@ -54,4 +54,6 @@ To create the front-end interface of an e-learning platform that:
 #OUTPUT
 
 <img width="1290" height="657" alt="Image" src="https://github.com/user-attachments/assets/66b8ba83-7dea-4c36-b1c7-bd84b09da35e" />
+
+<img width="1290" height="657" alt="Image" src="https://github.com/user-attachments/assets/91d3a722-9367-4a0a-93d5-046bae6ff6ee" />
     
